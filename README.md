@@ -10,15 +10,15 @@ Meu portfólio online apresenta várias seções, incluindo perfil, sobre mim, e
 
 ### Perfil
 
-![Perfil](./assets/profile-screenshot.png)
+![Perfil](/profile-screenshot.png)
 
 ### Sobre Mim
 
-![Sobre Mim](./assets/about-screenshot.png)
+![Sobre Mim](./about-screenshot.png)
 
 ### Projetos
 
-![Projetos](./assets/projects-screenshot.png)
+![Projetos](projects-screenshot.png)
 
 ## Como Usar
 
